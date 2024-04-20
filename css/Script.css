@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(to left ,#de6262 , #ffb88c);
+}
+.calculator {
+    padding: 10px;
+    border-radius: 10px 10px;
+    height: 380px;
+    width: 400px;
+    margin: auto;
+    background:linear-gradient(to left ,#d66d75 , #e29587);
+    border:4px solid rgb(97, 97, 97);
+}
+.display-box {
+    background-color: #dcdbe1;
+    border: solid black 0.5px;
+    color: black;
+    border-radius: 5px;
+    width: 100%;
+    height: 65%;
+}
+.button {
+    background-color: #64278f;
+    color: white;
+    border: solid black 0.5px;
+    width: 100%;
+    border-radius: 5px;
+    height: 70%;
+}
+.button:hover {
+    background: linear-gradient(15deg, #b06cff,#7700ff,#5e00ca);
+    box-shadow: 0px 0px 5px #c1c1c1;
+}
